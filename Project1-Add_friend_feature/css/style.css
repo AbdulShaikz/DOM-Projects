@@ -50,22 +50,17 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2rem;
     font-weight: 800;
-    color: brown;
+    color: red;
     margin: 1rem;
+
 }
 .btn{
     border: none;
     margin: 1rem;
-    border-radius: 2rem;
+    border-radius: 1.5rem;
     padding: 1rem 1.5rem;
     font-size: 1.5rem;
     font-weight: 500;
-}
-
-.btn-remove{
-    background-color:rgb(199, 188, 188);
-}
-
-.btn-add{
     background-color: rgb(49, 87, 255);
+    cursor: pointer;
 }
